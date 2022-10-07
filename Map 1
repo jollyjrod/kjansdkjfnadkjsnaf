@@ -1,6 +1,5 @@
 {
   "type": "FeatureCollection",
-  "name": "Florida"
   "features": [
     {
       "type": "Feature",
